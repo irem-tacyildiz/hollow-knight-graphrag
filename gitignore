@@ -1,0 +1,31 @@
+# Data files (too large for GitHub)
+data/
+*.pkl
+*.json
+!requirements.txt
+
+# Model files
+*.pt
+*.bin
+*.safetensors
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Virtual environments
+venv/
+env/
+.env
