@@ -103,7 +103,7 @@ Gerekli kütüphanelerin yüklenmesi ve import edilmesi.
 ##  Nasıl Çalıştırılır?
 
 1. Notebook'u **Google Colab**'a yükle
-2. `Runtime → Change runtime type → GPU (A100 veya L4)` seç
+2. `Runtime → Change runtime type → GPU (G4 veya daha yüksek GPU)` seç
 3. **HuggingFace Token:**
    - [huggingface.co](https://huggingface.co) hesabı aç
    - [google/gemma-4-E4B-it](https://huggingface.co/google/gemma-4-E4B-it) sayfasında lisansı kabul et
