@@ -110,7 +110,7 @@ Gerekli kütüphanelerin yüklenmesi ve import edilmesi.
    - Settings → Access Tokens → token oluştur
    - Colab'da sol menü →  Secrets → `HF_TOKEN` adıyla kaydet
 4. `Runtime → Run all` ile tüm hücreleri çalıştır
-5. Gradio arayüzünden veya `graphrag_answer("sorunuz")` ile soru sor
+5. Gradio arayüzünden soru sor
 
 **Bağlantı kesildikten sonra:** KAYDET hücresi çalıştırılmışsa, sadece GERİ YÜKLE hücresini çalıştırmak yeterlidir.
 
