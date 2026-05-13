@@ -10,7 +10,7 @@ Hollow Knight ve Silksong oyun wiki verisi üzerinde **Graph-based Retrieval-Aug
 ┌─────────────────┐     ┌──────────────────┐     ┌────────────────┐
 │   Wiki Verisi   │────▶│  Knowledge Graph  │────▶│   GNN (GAT)    │
 │  (1674 sayfa)   │     │  (1674 düğüm,    │     │  Link Pred.    │
-│  MediaWiki API  │     │   160K+ kenar)   │     │  AUC: 0.95     │
+│  MediaWiki API  │     │   159K+ kenar)   │     │  AUC: 0.95     │
 └─────────────────┘     └────────┬─────────┘     └───────┬────────┘
                                  │                       │
                                  │                 Node Embeddings
